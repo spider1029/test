@@ -1,2 +1,2 @@
-def ff():
-    return 100
+def fun(a):
+    return 100+a
