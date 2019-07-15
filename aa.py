@@ -1,2 +1,5 @@
 def f(a):
-    return a*2
+    return a*6
+
+def f(a):
+    return b*3
